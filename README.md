@@ -1,0 +1,3 @@
+- Hai, I’m Vampy
+- I'm not a programmer, but I dable in CSS and stuff :p 
+- Anyway that's all
